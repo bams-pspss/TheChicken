@@ -1,5 +1,5 @@
 function showAlert() {
-    alert('Button clicked!');
+    alert('Not Available!');
   }
   
   document.addEventListener('DOMContentLoaded', () => {
